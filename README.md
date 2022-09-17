@@ -1,4 +1,4 @@
-# find-light
+# Find-light
 
 This project is inspired by [this clip from the office](https://youtu.be/V4GJby5y6sM). The clip shows Dwight looking for his desk and Jim helping him to locate it by giving him instructions. 
 
