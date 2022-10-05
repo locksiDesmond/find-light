@@ -3,7 +3,7 @@
 This project is inspired by [this clip from the office](https://youtu.be/V4GJby5y6sM). The clip shows Dwight looking for his desk and Jim helping him to locate it by giving him instructions. 
 
 ## What is Find light
-Find light is a simple game where you make guess on a particular direction to reach a pre-determined destination in the mininum amount within the number of moves provided. You'll be given a hint either 'hotter' or 'colder'. Hotter means you've moved closer to reaching the destination while colder means you've moved further away from it. You don't know where the target it so your objective is to get there in the minimum amount of move possible.
+Find light is a simple game where you make guess on a particular direction to reach a pre-determined destination within the number of moves provided. You'll be given a hint either 'hotter' or 'colder'. Hotter means you've moved closer to reaching the destination while colder means you've moved further away from it. You don't know where the target it so your objective is to get there in the minimum amount of move possible.
 
 ## How to contribute
 ### With design
