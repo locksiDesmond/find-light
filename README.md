@@ -4,6 +4,7 @@ This project is inspired by [this clip from the office](https://youtu.be/V4GJby5
 
 ## What is Find light
 Find light is a simple game where you make guess on a particular direction to reach a pre-determined destination within the number of moves provided. You'll be given a hint either 'hotter' or 'colder'. Hotter means you've moved closer to reaching the destination while colder means you've moved further away from it. You don't know where the target it so your objective is to get there in the minimum amount of move possible.
+At the moment the design of the project is going to be like 80s game. e.g [Pac-Man](https://g.co/kgs/XuQzKu)
 
 ## How to contribute
 ### With design
